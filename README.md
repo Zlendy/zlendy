@@ -14,6 +14,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First post](https://zlendy.com/blog/first-post)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
