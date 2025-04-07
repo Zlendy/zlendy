@@ -14,6 +14,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install Arch Linux with support for snapshots and rollback](https://zlendy.com/blog/install-arch-linux-with-btrfs-and-snapper)
 - [First post](https://zlendy.com/blog/first-post)
 <!-- BLOG-POST-LIST:END -->
 
