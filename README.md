@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write tech articles on [my blog](https://zlendy.com/blog)
 
-- 📫 How to reach me **contact@zlendy.com**
+- 📫 How to reach me contact@zlendy.com
 
 ### Blog posts
 
