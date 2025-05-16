@@ -5,11 +5,11 @@
     <img src="https://komarev.com/ghpvc/?username=zlendy&label=Profile%20views&color=0e75b6&style=flat" alt="zlendy" />
 </p>
 
-- 🛠️ I’m currently working on [my personal website](https://zlendy.com)
+- 🛠️ I’m currently working on [runic-wormhole](https://github.com/Zlendy/runic-wormhole)
 
-- 🌱 I’m currently learning **Svelte 5 and Windows Server**
+- 🌱 I’m currently learning [Tauri](https://v2.tauri.app)
 
-- 📝 I sometimes write tech articles on [https://zlendy.com/blog](https://zlendy.com/blog)
+- 📝 I sometimes write tech articles on [my blog](https://zlendy.com/blog)
 
 - 📫 How to reach me **contact@zlendy.com**
 
