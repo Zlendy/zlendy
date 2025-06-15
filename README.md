@@ -16,6 +16,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replace macOS with Asahi Linux and keep support for firmware upgrades](https://zlendy.com/blog/replace-macos-with-asahi-linux)
 - [How to install Arch Linux with support for snapshots and rollback](https://zlendy.com/blog/install-arch-linux-with-btrfs-and-snapper)
 - [First post](https://zlendy.com/blog/first-post)
 <!-- BLOG-POST-LIST:END -->
