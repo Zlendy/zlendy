@@ -16,6 +16,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PSA: Beware of the &quot;tuned&quot; package in your Proxmox VE homelab](https://zlendy.com/blog/psa-tuned-in-proxmox-ve)
 - [How to install Arch Linux with support for snapshots and rollback](https://zlendy.com/blog/install-arch-linux-with-btrfs-and-snapper)
 - [First post](https://zlendy.com/blog/first-post)
 <!-- BLOG-POST-LIST:END -->
